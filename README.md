@@ -52,7 +52,7 @@ The Python version used for this project is Python 3.10. You can follow along th
 1. Clone the repo (or download it as a zip file):
 
    ```bash
-   git clone https://github.com/benitomartin/rag-azure-http.git
+   git clone https://github.com/T-AIMaven/rag-azure-http.git
    ```
 
 2. Create the virtual environment named `main-env` using Conda with Python version 3.10:
