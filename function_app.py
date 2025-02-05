@@ -3,7 +3,6 @@ The module contains the Azure Function App HTTP trigger that processes a request
 to generate a response based on the query provided in the JSON body.
 
 """
-
 import logging
 import os
 
