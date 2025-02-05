@@ -1,0 +1,12 @@
+langchain
+langchain_openai
+langchain-community
+qdrant-client
+python-dotenv
+pypdf
+boto3
+streamlit
+ruff
+langchain-qdrant
+azure-functions
+requests
