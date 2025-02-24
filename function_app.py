@@ -5,7 +5,6 @@ to generate a response based on the query provided in the JSON body.
 """
 import logging
 import os
-
 import azure.functions as func
 
 from rag_app import rag_retrieve_and_generate
