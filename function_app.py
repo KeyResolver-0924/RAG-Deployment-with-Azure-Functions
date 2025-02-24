@@ -10,6 +10,7 @@ import azure.functions as func
 
 from rag_app import rag_retrieve_and_generate
 
+
 app = func.FunctionApp(http_auth_level=func.AuthLevel.ANONYMOUS)
 
 @app.function_name(name="HttpTrigger")
