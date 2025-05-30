@@ -33,7 +33,7 @@ Feel free to ⭐ and clone this repo 😉
 
 The project has been structured with the following files:
 
-- `.env_sample`: sample environmental variables
+- `.env_sample`: sample environmental variables.
 - `Makefile`: install requirements, formating, linting, and clean up
 - `pyproject.toml`: linting and formatting using ruff
 - `requirements.txt:` project requirements
